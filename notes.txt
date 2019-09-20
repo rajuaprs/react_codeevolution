@@ -1,1 +1,7 @@
 https://github.com/facebook/create-react-app 
+
+https://github.com/facebook/react/issues
+
+https://github.com/facebook/react/issues/13525 
+
+ 

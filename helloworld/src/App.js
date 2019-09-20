@@ -9,7 +9,11 @@ import Hello from "./components/Hello";
 function App() {
   return (
     <div className="App">
-      <Mycomp></Mycomp>
+      <Mycomp name="Bruce" heroname="Batman">
+        <p>This is childrenprops </p>
+      </Mycomp>
+      <Mycomp name="Clark" heroname="Superman"></Mycomp>
+      <Mycomp name="Diana " heroname="wonder Woman"></Mycomp>
       <Welcome />
       <Hello />
     </div>
